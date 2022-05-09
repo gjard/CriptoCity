@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(176, 216, 213);
+}
+
+.divApp {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10%;
+}

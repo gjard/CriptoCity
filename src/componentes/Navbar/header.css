@@ -1,0 +1,26 @@
+header .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header .logo {
+  margin-left: 5px;
+  color: rgb(124, 85, 34);
+  font-family: "Arial Black", Times;
+  font-size: 40px;
+}
+
+header nav a {
+  text-decoration: none;
+  color: rgb(79, 182, 182);
+  margin-right: 10px;
+}
+header {
+  background-color: rgb(176, 216, 213);
+}
+
+header nav a:hover {
+  color: #008080;
+}
